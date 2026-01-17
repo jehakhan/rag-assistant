@@ -1,4 +1,3 @@
-from pathlib import Path
 from rag.pipeline.ingest import ingest_directory
 from rag.config import RAW_DATA_DIR
 
